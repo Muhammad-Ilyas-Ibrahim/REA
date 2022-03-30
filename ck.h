@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 #include <sstream>
+#include <windows.h>
 #include <sys/stat.h>
 using namespace std;
 int ExistOrNot(char* filename){
